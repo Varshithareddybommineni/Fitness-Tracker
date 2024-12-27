@@ -83,8 +83,8 @@ python tracker.py
 The application uses SQLite with the following tables:
 - step_counter
 - workout_log
-- nutrition## Acknowledgments
-
+- nutrition
+- ## Acknowledgments
 - Exercise tutorials linked to YouTube
 - BMI calculations based on WHO standards
 - Nutrition recommendations following standard dietary guidelines

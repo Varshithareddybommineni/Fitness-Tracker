@@ -102,3 +102,5 @@ The application uses SQLite with the following tables:
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
+## Code link
+https://github.com/Varshithareddybommineni/Fitness-Tracker/blob/main/tracker.py

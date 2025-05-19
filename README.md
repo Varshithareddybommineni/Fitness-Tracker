@@ -1,4 +1,5 @@
-# Fitness Tracker Application
+# Trackspire Application
+A blend of “track” and “inspire,” emphasizing motivation and progress for physical fitness.
 A comprehensive desktop application built with Python and Tkinter for tracking fitness goals, nutrition, and workout progress with BMI-based recommendations.
 ## Features
 ## 1. Daily Tracking
